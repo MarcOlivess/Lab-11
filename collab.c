@@ -17,6 +17,12 @@
 // UIC CS 211, Spring 2023
 #include <stdio.h>
 
+void molve2_lhart23(){
+  printf("Marc Olvera and Luke Hartzell");
+  printf("We learned that GitHub is a great place to store projects, because it allows for a tracible history of your code. as well being able to collaborate with others more effectively, via branching and merging into the main repo");
+}
+
+
 void reed_ekidan2() {
   // Adding comment here
   printf("Dale Reed and Ellen Kidane\n");
